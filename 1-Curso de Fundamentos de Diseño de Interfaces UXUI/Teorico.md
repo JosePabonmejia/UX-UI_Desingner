@@ -42,3 +42,23 @@ El pixel es la unidad grafica digital más pequeña, la cual se constituye por u
 * Los colores tienen valores que varian desde el 0 al 255. Esta información se puede almacenar en la unidad de información más pequeña en una computadora, que el bite.
 
 * ***Espacio de color:*** Es el conjunto especifico de colores que se pueden manipular en una pantalla determinada. Nos ayuda a trabajar con las mismas limitaciones de la pantalla.
+
+## Introduccion al Software que utilizaremos en Diseño digital
+
+**Las diferentes herramientas tienen diferentes propósitos.**
+
+* ***Adobe Photoshop:*** se utiliza para retocar y manipular imágenes digitales.
+* ***Adobe Illustrator:*** se utiliza para diseñar gráficos vectoriales y logotipos.
+* ***Adobe InDesign:*** se utiliza para diseñar y maquetar publicaciones como revistas, folletos y libros.
+* ***Adobe XD:*** se utiliza para diseñar prototipos y diseños de aplicaciones para dispositivos móviles.
+* ***Adobe After Effects:*** se utiliza para crear animaciones y efectos de vídeo.
+* ***Adobe Premiere Pro:*** se utiliza para editar y producir vídeos.
+* ***Adobe Lightroom:*** se utiliza para organizar y retocar fotos.
+* ***Adobe Audition:*** se utiliza para editar y mezclar audio.
+* ***Sketch:*** se utiliza para diseñar aplicaciones web y móviles.
+* ***Figma:*** se utiliza para diseñar interfaces gráficas y prototipos de aplicaciones.
+* ***Corel Draw:*** se utiliza para diseñar gráficos vectoriales.
+* ***Cinema 4D:*** se utiliza para diseñar efectos especiales y animaciones en 3D.
+* ***Blender:*** se utiliza para crear contenido 3D y efectos visuales.
+* ***Unreal Engine:*** se utiliza para crear juegos y experiencias de realidad virtual.
+* ***Unity:*** se utiliza para desarrollar contenido interactivo, juegos y aplicaciones.
