@@ -45,7 +45,7 @@ El pixel es la unidad grafica digital más pequeña, la cual se constituye por u
 
 ## Introduccion al Software que utilizaremos en Diseño digital
 
-**Las diferentes herramientas tienen diferentes propósitos.**
+### Las diferentes herramientas tienen diferentes propósitos.   
 
 * ***Adobe Photoshop:*** se utiliza para retocar y manipular imágenes digitales.
 * ***Adobe Illustrator:*** se utiliza para diseñar gráficos vectoriales y logotipos.
@@ -62,3 +62,25 @@ El pixel es la unidad grafica digital más pequeña, la cual se constituye por u
 * ***Blender:*** se utiliza para crear contenido 3D y efectos visuales.
 * ***Unreal Engine:*** se utiliza para crear juegos y experiencias de realidad virtual.
 * ***Unity:*** se utiliza para desarrollar contenido interactivo, juegos y aplicaciones.
+
+## Historia del diseño 
+### Principios de un buen siseño 
+
+* ***Es Innovador:***Genera soluciones que al principio puede que no fueran evidentes.
+* ***Hace un producto usable:***Entendiendo usabilidad como la cualidad de aprenderse con facilidad y se usa sin mayor dificultad o con un mínimo de puntos de dolor.
+
+* ***Es estético:***La apariencia del producto es importante, en especial ahora que sabemos que existe relación entre la percepción de utilidad y la estética del producto. Así mismo, dependiendo del público objetivo, cierta estética será favorecida por encima de cualquier otra.
+
+* ***Hace un producto entendible:***Soluciona un problema de manera que el usuario pueda usarlo cuando sea necesario, de lo contrario, de qué sirve un producto que está hecho para solucionar un problema si no sabes cómo solucionar el problema con el producto?
+
+* ***Es discreto:***No es necesario recargar de elementos estéticos que no aporten a la función.
+
+* ***Es honesto:***Nace de un proceso de investigación verdadero que ha entablado conexión con los usuarios, por ende, la solución será verdadera.
+
+* ***Es duradero:***No se vuelve obsoleto con el cambio de modas o tendencias, aunque no implica que no pueda adaptarse para mejorar.
+
+* ***Cuida cada detalle:***En el diseño nada se hace porque si o se deja a la suerte.
+
+* ***Respetuoso con el medio ambiente.***
+
+* ***Es el menor diseño posible:***Hacer más de lo esencial o necesario no significa que sea mejor, al contrario.
