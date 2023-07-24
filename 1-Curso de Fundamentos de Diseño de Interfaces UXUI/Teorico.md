@@ -1,6 +1,5 @@
-# RESUMEN DE LA CLASE: (A quien pueda interesar)
-
-#### Objetivos de este curso
+# Curso de Fundamentos de Diseño de Interfaces UXUI
+ Objetivos de este curso
 
 #### Aplicar los principios fundamentales para el diseño de producto digital
 #### Ser capaz de comunicar nuestras ideas a través del uso de una herramienta de diseño profesional: Figma
