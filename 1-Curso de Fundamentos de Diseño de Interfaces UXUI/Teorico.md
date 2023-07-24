@@ -135,3 +135,21 @@ La forma sigue a la función, los diseños responden a decisiones racionales par
 * ***Ratio de oro:*** proporción constante de acuerdo a una constante matemática (1,618)
 * ***Profundidad de procesamiento:*** lo que se analiza profundamente se recuerda más que aquello superficial.
 * ***Sesgo de contorno:*** visualmente se percibe agradable los bordes redondeados a en vértice.
+
+## Principios heurísticos de interacción
+
+* ***Umbral de Doherty:*** La productividad se dispara cuando unaPC trabaja a un ritmo menor a 400 ms, como tiempo ideal de espera para el usuario y carga de la información. Si esto no se puede controlar, se pueden añadir microinteracciones para enganchar al usuario y simular que algo esté tardando mucho tiempo en cargar.
+
+* ***Ley de Fitts:*** El tiempo para adquirir un objetivo, es una función de la distancia y el tamaño del objetivo. Ejemplo: Cuando se diseña una app, debemos tener en cuenta donde el usuario colocará sus dedos, si es zurdo o diestro, donde colocar las acciones principales, etc.
+
+* ***Ley de Jakob:*** Los usuarios pasan la mayor parte del tiempo en otros sitios. Los usuarios prefieren lo conocido, y esperan que tu sitio o app funcionen de la misma manera.
+
+* ***Técnica de entrenamiento:*** Se usa mucho en el mundo de los videojuegos. Ejemplo: Un tutorial o guía de usabilidad, para familiarizarse con el producto.
+
+* ***Descubrimiento progresivo:*** Estrategia para gestionar la complejidad de la información, dando solo la información necesaria en un momento dado.
+
+* ***Mapeo:*** Existe una relación entre los controles y su movimiento. Un buen mapeo, da una mayor facilidad de uso.
+
+* ***Destino común:*** Las cosas que se mueven en un mismo sentido, parece que están agrupadas.
+
+* ***Affordance:*** Son todas las posibilidades que naturalmente ofrece el objeto para conocer cómo usarlo.
