@@ -119,3 +119,14 @@ para mantener el rendimiento del sistema en caso de fallo. Ejemplo: Botones de C
 * ***Continuidad:*** El cerebro hasta opta por completar espacios para lograr una secuencia o patrón
 * ***Organizar la info:*** Por categoría, tiempo, ubicación, alfabeto, continuidad
 * ***Alineación:*** Priorizar la legibilidad
+
+### Principios heuristicos de forma 
+
+La forma sigue a la función, los diseños responden a decisiones racionales para dar significado.
+* ***Ley de pragnanz:*** interpretación que requiere el menor esfuerzo
+* ***Sesgo de iluminación:*** interpretar áreas oscuras como sombras.
+* ***Proyección tridimensional:*** cuando ciertas señales visuales (interposición, tamaño o perspectiva) hacen presencia, hay una tendencia a percibir elementos en 3 dimensiones.
+* ***Simetría:*** equivalencias visuales en los elementos de una forma.
+* ***Relación señal a ruido:*** Información puede ser irrelevante y distraer al usuario.
+* ***Regla de tercios:*** uso de las intersecciones para una composición dividida en 3 columnas y 3 filas
+* ***Legibilidad:*** capacidad de fácil y agradable lectura de textos.
