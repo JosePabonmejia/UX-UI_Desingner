@@ -97,3 +97,12 @@ Los heurísticos son las estrategias derivadas de experiencias previas con probl
 * ***Equilibrio entre flexibilidad y usabilidad:*** A medida que aumenta la flexibilidad de un sistema, disminuye la usabilidad del mismo.
 * ***Carga de trabajo:*** Cuanto mayor sea el esfuerzo de realizar una tarea, menor será la probabilidad de que la tarea finalice y se lleva a cabo. Por eso es mejor partir de pasos pequeños para completar la tarea. (Onboarding de Duolingo).
 * ***Ley de Miller:*** Una persona promedio puede mantener entre 5 a 9 elementos en su memoria de trabajo.
+* ***Efectos de posición:*** Es más posible que recordemos los elementos que están al inicio o al final de una lista, los de en medio es un poco más difícil.
+* ***Regla de punto máximo:*** En general, las personas valoran una experiencia a partir de cómo se sintieron en el punto máximo de emoción (ya sea buena o mala) a lo largo de la experiencia, manteniéndola así hasta el final. *Ejemplo: el confeti que se ve en pantalla al final de una compra o registro.
+* ***Efecto de Von Restorff o efecto de aislamiento:*** Cuando hay muchos objetos, es más probable que se recuerde el que está aislado o el que se ve distinto a los demás. Ejemplo: Cuando resaltamos el CTA call to action.
+* ***Principio de escasez:*** Los artículos y las oportunidades se vuelven más deseables cuando se percibe que escasean con poca frecuencia.
+* ***Principio de redundancia:*** El uso de elementos más de los necesarios
+para mantener el rendimiento del sistema en caso de fallo. Ejemplo: Botones de CTA call to action que llevan a un mismo lugar.
+* ***Principio de consistencia:*** Cosas similares que se expresan de manera similar. Ejemplo: Los botones son todos rojos, están en un lugar similar, etc.
+* ***Efectos de interferencia:*** El comportamiento mental es más lento con modelos mentales en competencia.
+* ***Jerarquía de las necesidades:*** Para que un diseño tenga éxito, debe satisfacer las necesidades básicas de la persona, antes de que pueda satisfacer necesidades de un nivel superior.
