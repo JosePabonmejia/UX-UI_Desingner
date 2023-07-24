@@ -84,3 +84,16 @@ El pixel es la unidad grafica digital más pequeña, la cual se constituye por u
 * ***Respetuoso con el medio ambiente.***
 
 * ***Es el menor diseño posible:*** Hacer más de lo esencial o necesario no significa que sea mejor, al contrario.
+
+## Principios heuristicos de percepcion y comportamiento 
+
+Los heurísticos son las estrategias derivadas de experiencias previas con problemas similares.
+**Son principios heurísticos porque son reglas y se dividen en:**
+
+### Percepción y comportamiento
+
+* ***Efecto estético-usabilidad:*** El usuario perciben un diseño agradable como el más sutil o más fácil de utilizar. (Windows de antes)
+* ***La ley de Hick:*** El tiempo que lleva tomar una decisión aumenta con el número y la complejidad de las opciones. (Opciones para ver, en el feed de Netflix)
+* ***Equilibrio entre flexibilidad y usabilidad:*** A medida que aumenta la flexibilidad de un sistema, disminuye la usabilidad del mismo.
+* ***Carga de trabajo:*** Cuanto mayor sea el esfuerzo de realizar una tarea, menor será la probabilidad de que la tarea finalice y se lleva a cabo. Por eso es mejor partir de pasos pequeños para completar la tarea. (Onboarding de Duolingo).
+* ***Ley de Miller:*** Una persona promedio puede mantener entre 5 a 9 elementos en su memoria de trabajo.
