@@ -106,3 +106,16 @@ para mantener el rendimiento del sistema en caso de fallo. Ejemplo: Botones de C
 * ***Principio de consistencia:*** Cosas similares que se expresan de manera similar. Ejemplo: Los botones son todos rojos, están en un lugar similar, etc.
 * ***Efectos de interferencia:*** El comportamiento mental es más lento con modelos mentales en competencia.
 * ***Jerarquía de las necesidades:*** Para que un diseño tenga éxito, debe satisfacer las necesidades básicas de la persona, antes de que pueda satisfacer necesidades de un nivel superior.
+
+## Principios heurísticos de relación y jerarquía
+
+* ***Ley de las regiones comunes:*** Tendemos a percibir limites y áreas
+* ***Ley de la proximidad:*** Agrupamos elementos próximos
+* ***Ley de la similitud:*** el ojo humano tiende a agrupar lo similar
+* ***Ley de conectividad uniforme:*** Los elementos conectados visualmente se perciben con mayor facilidad
+* ***Densidad proposicional:*** relación diseño-significado
+* ***Capas:*** Agrupar info ayuda a entender y gestionar la complejidad
+* ***Jerarquía:*** Estructura simple, comprensible, organizada
+* ***Continuidad:*** El cerebro hasta opta por completar espacios para lograr una secuencia o patrón
+* ***Organizar la info:*** Por categoría, tiempo, ubicación, alfabeto, continuidad
+* ***Alineación:*** Priorizar la legibilidad
