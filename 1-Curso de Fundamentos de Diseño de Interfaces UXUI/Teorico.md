@@ -1,6 +1,6 @@
 # Curso de Fundamentos de Diseño de Interfaces UXUI
 
-### Objetivos de este curso***
+### Objetivos de este curso
 
  * Aplicar los principios fundamentales para el diseño de producto digital
  * Ser capaz de comunicar nuestras ideas a través del uso de una herramienta de diseño profesional: Figma
@@ -13,3 +13,32 @@
 * Descubriremos cómo hemos llegado hasta la epoca actual a través de un resumen sobre la historia del diseño, la cual es muy amplia.
 * Conocer los principios heurísticos para poder razonar todos nuestros diseños y el por qué se toman ciertas decisiones.
 * Conoceremos un poco figma; desde cómo manejar la tipografía, las diferentes herramientas vectoriales, prototipar nuestra aplicación, la parte colaborativa e incluso adentrarnos un poco en el mundo de los sistemas de diseño.
+
+## Introducción al mundo digital
+
+### Pantallas
+
+Las pantallas son límitaciones (no se controla el tamaño de la pantalla que utilizará el usuario, ni el entorno, situación en la que el usuario va a interartuar, sonido, luz, emociones) con las que nos vamos a encontrar en el mundo digital.
+
+* ***Relación de aspecto:*** habla sobre cuantos pixeles de ancho vs pixeles de alto se muestran.
+
+* ***Resolucion:*** es la cantidad de pixeles que se pueden mostrar en los dispositivos en cuanto al ancho y alto de la pantalla.
+
+* ***Densidad de pixels:*** Cuantos pixeles utiliza una pantalla para representar la informació se llaman Dots per inch/ puntos por pulgada (Dpi) o Pixels per inch/ pixel por pulgadas (Ppi).
+
+### Pixel 
+
+El pixel es la unidad grafica digital más pequeña, la cual se constituye por un punto. Cada pixel emite una luz combinando el rojo, verde y azul.
+
+### Color
+
+***Teoría básica del color:***
+* ***CMYK:*** Cian, magenta y amarillo, si se mezclan se consigue el resto de los colores en el espectro. Cuando se mezcla se quita luz. Los colores son sustrativos (quitan)
+
+* ***RGB (en el diseño digital):*** Si se mezcla el rojo, azul y verde se consiguen colores y proporciones diferentes. Cuanto más se mezcla más luz se consigue. Los colores son aditivos (agregan)
+
+**Cuando se detalla un color se habla de la cantidad de rojo, azul y verde hay en un color.**
+
+* Los colores tienen valores que varian desde el 0 al 255. Esta información se puede almacenar en la unidad de información más pequeña en una computadora, que el bite.
+
+* ***Espacio de color:*** Es el conjunto especifico de colores que se pueden manipular en una pantalla determinada. Nos ayuda a trabajar con las mismas limitaciones de la pantalla.
