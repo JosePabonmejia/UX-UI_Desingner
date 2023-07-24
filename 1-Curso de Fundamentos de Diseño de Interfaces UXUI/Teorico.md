@@ -1,10 +1,11 @@
 # Curso de Fundamentos de Diseño de Interfaces UXUI
+
  Objetivos de este curso
 
-#### Aplicar los principios fundamentales para el diseño de producto digital
-#### Ser capaz de comunicar nuestras ideas a través del uso de una herramienta de diseño profesional: Figma
-#### Empezar a tener el conocimiento básico necesario para seguir avanzando en platzi y mejorar todo nuestro conocimiento en el mundo del diseño.
-#### Ampliar nuestra mente y ser capaz de entender el diseño aparte de tener una mente critica para poder analizar la aplicaciones o webs que utilizo a diario.
+ Aplicar los principios fundamentales para el diseño de producto digital
+ Ser capaz de comunicar nuestras ideas a través del uso de una herramienta de diseño profesional: Figma
+ Empezar a tener el conocimiento básico necesario para seguir avanzando en platzi y mejorar todo nuestro conocimiento en el mundo del diseño.
+ Ampliar nuestra mente y ser capaz de entender el diseño aparte de tener una mente critica para poder analizar la aplicaciones o webs que utilizo a diario.
 
 # Overview del curso
 
