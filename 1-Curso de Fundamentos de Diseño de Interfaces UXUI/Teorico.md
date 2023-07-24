@@ -120,7 +120,7 @@ para mantener el rendimiento del sistema en caso de fallo. Ejemplo: Botones de C
 * ***Organizar la info:*** Por categoría, tiempo, ubicación, alfabeto, continuidad
 * ***Alineación:*** Priorizar la legibilidad
 
-### Principios heuristicos de forma 
+## Principios heuristicos de forma 
 
 La forma sigue a la función, los diseños responden a decisiones racionales para dar significado.
 * ***Ley de pragnanz:*** interpretación que requiere el menor esfuerzo
@@ -130,3 +130,8 @@ La forma sigue a la función, los diseños responden a decisiones racionales par
 * ***Relación señal a ruido:*** Información puede ser irrelevante y distraer al usuario.
 * ***Regla de tercios:*** uso de las intersecciones para una composición dividida en 3 columnas y 3 filas
 * ***Legibilidad:*** capacidad de fácil y agradable lectura de textos.
+* ***Iconos:*** nos ayuda al reconocimiento y contexto.
+* ***Remarcar:*** técnica para llamar la atención.
+* ***Ratio de oro:*** proporción constante de acuerdo a una constante matemática (1,618)
+* ***Profundidad de procesamiento:*** lo que se analiza profundamente se recuerda más que aquello superficial.
+* ***Sesgo de contorno:*** visualmente se percibe agradable los bordes redondeados a en vértice.
