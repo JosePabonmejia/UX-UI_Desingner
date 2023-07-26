@@ -154,7 +154,7 @@ La forma sigue a la función, los diseños responden a decisiones racionales par
 
 * ***Affordance:*** Son todas las posibilidades que naturalmente ofrece el objeto para conocer cómo usarlo.
 
-## ARQUITECTURA DE LA INFORMACIÓN
+## Arquitectura de la inoformacion 
 
 La Arquitectura de la Información trata sobre el diseño de: sitios web, interfaces de dispositivos móviles o gadgets. Su principal objetivo es facilitar al máximo los procesos de comprensión y asimilación de la información, así como las tareas que ejecutan los usuarios en un espacio de información definido.
 
@@ -165,3 +165,20 @@ La Arquitectura de la Información trata sobre el diseño de: sitios web, interf
 * ***Prototipado:*** En esta fase es donde vamos a testear si todo lo que estamos haciendo en cuanto a la arquitectura de la información previa en cuanto a estructura nos va a funcionar. Esta herramienta nos ayuda a definir y a comunicar nuestras ideas.
 
 * ***Patrones de Navegación para móvil. (IOs, Material Design ):*** Es un punto importante, uno de los principales factores que define el diseño de interfaz para aplicaciones móviles es el sistema operativo.
+
+## Tipografia
+
+**Puntos Claves de Tipografía:**
+
+* ***Anatomía básica:***
+1. Línea base
+1. Altura minúsculas y mayúsculas
+1. Ascendentes y descendentes
+1. Serifas
+* ***Propiedades:***
+1. Familia, Tamaño, Peso, Interlinea, Espaciado
+* ***Funcionamiento:***
+1. Flujo de diferentes formas
+1. Alineamiento horizontal
+1. Alineamiento Vertical
+1. Escalado
