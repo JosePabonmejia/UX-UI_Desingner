@@ -153,3 +153,15 @@ La forma sigue a la función, los diseños responden a decisiones racionales par
 * ***Destino común:*** Las cosas que se mueven en un mismo sentido, parece que están agrupadas.
 
 * ***Affordance:*** Son todas las posibilidades que naturalmente ofrece el objeto para conocer cómo usarlo.
+
+## ARQUITECTURA DE LA INFORMACIÓN
+
+La Arquitectura de la Información trata sobre el diseño de: sitios web, interfaces de dispositivos móviles o gadgets. Su principal objetivo es facilitar al máximo los procesos de comprensión y asimilación de la información, así como las tareas que ejecutan los usuarios en un espacio de información definido.
+
+**Formas en la que se puede desarrollar la arquitectura de la información:**
+
+* ***Navegación:*** Esta formada por los elementos de la interfaz del usuario, que ayuda a los usuarios a navegar a través de la arquitectura de información de tu producto. Ejemplo: Los diferentes menús que puede tener, como organizas la información, todos los enlaces en el pie de la página.
+
+* ***Prototipado:*** En esta fase es donde vamos a testear si todo lo que estamos haciendo en cuanto a la arquitectura de la información previa en cuanto a estructura nos va a funcionar. Esta herramienta nos ayuda a definir y a comunicar nuestras ideas.
+
+* ***Patrones de Navegación para móvil. (IOs, Material Design ):*** Es un punto importante, uno de los principales factores que define el diseño de interfaz para aplicaciones móviles es el sistema operativo.
