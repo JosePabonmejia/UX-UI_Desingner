@@ -182,3 +182,50 @@ La Arquitectura de la Información trata sobre el diseño de: sitios web, interf
 1. Alineamiento horizontal
 1. Alineamiento Vertical
 1. Escalado
+
+## Vectores y operaciones Booleanas
+
+* Mapas de bits: Los mapas de bits almacenan información sobre las dimensiones y el color de cada pixel
+
+* GIF: Se usa para animar tiene un rango de 256 colores (Máximo) y puede ser transparente
+* JPG: Acepta millones de colores
+* PNG: Acepta millones de colores y admite imagenes transparentes
+* Vectores: La información se almacena en expresiones matemáticas que deben representarse para el nivel de zoom dado.
+
+## SVG (Scalable vector Graphic)
+* Nodos: Los vectores estan formados por Nodos, los nodos definen cómo se debe dibujar la forma. Los Nodos se pueden manipular para cambiar su posición. Entonces la forma será redibujada <br>
+
+Tambien permiten modificar las formas para darles (por ejemplo) bordes redondeados.<br>
+
+Podemos añadir o eliminar Nodos para simplificar las formas, las formas pueden tener un relleno solido o degradado, pero si la forma esta “abierta” (es decir, los Nodos no están cerrados) no podremos añadir ningún relleno.<br>
+
+### Operaciones Booleanas
+
+Una forma de combinar Formas, añadiendolas, restándolas o interseleccionándolas.<br>
+
+* Unir
+* Substraer
+* Interseccionar
+* Excluir
+* Frames vs Groups
+* Los grupos solían utilizarse hace mucho tiempo, trata de evitarlos
+
+### ***Frame***
+
+Capa espacial que tiene las mismas propiedas que un rectángulo, pero puede contener otras capas
+Utíl para organizar el diseño y tener un cuadro delimitador para imitar pantallas
+Grupo
+
+Permite agrupar cosa, no puede aplicarse ninguna propiedad
+El tamaño del grupo se calcula en función del contenido
+
+## Organizacion colaboracion y procesos 
+
+***ORGANIZACIÓN: Importante para el manejo de archivo en el flujo de trabajo.***
+
+* **Separación de documentos:** La forma en la que los documentos en un sistema de diseño se dividen y organizan.
+* **-++ En el sistema de diseño++:** Un sistema de diseño por naturaleza es modular, sus documentos deben tener cierta independencia y aprovechar esa flexibilidad de posibles combinaciones.
+
+* **Páginas:** Se utilizan para separar diferentes secciones de un mismo producto, siguiendo la estructura que de alguna manera refleja la navegación o niveles principales.
+    
+    <link rel="stylesheet" href="./Imagenes/paginas.webp">
