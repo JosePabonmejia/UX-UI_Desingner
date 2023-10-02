@@ -227,5 +227,6 @@ El tamaño del grupo se calcula en función del contenido
 * **-++ En el sistema de diseño++:** Un sistema de diseño por naturaleza es modular, sus documentos deben tener cierta independencia y aprovechar esa flexibilidad de posibles combinaciones.
 
 * **Páginas:** Se utilizan para separar diferentes secciones de un mismo producto, siguiendo la estructura que de alguna manera refleja la navegación o niveles principales.
-    
-    <link rel="stylesheet" href="./Imagenes/paginas.webp">
+ 
+<img src="./Imagenes/paginas.webp" alt="">
+
