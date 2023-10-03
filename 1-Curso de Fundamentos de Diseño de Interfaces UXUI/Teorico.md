@@ -230,3 +230,32 @@ El tamaño del grupo se calcula en función del contenido
  
 <img src="./Imagenes/paginas.webp" alt="">
 
+* **Bibliotecas y kits de interfaz de usuario:** Los documentos tienen componentes, como bibliotecas o kits de interfaz de usuario, también habrá una sola página dónde se colocarán todos los componentes y símbolos editables.
+
+<img src="./Imagenes/interfaz.webp" alt="">
+
+* **Marcos y mesas de trabajo:** La disposición de marcos y mesas de trabajo dentro de una página puede dar una idea de la relación entre pantallas, si se usa de manera coherente entre páginas y páginas. La colocación de las pantallas (en fila y columnas) y la separación (vertical y horizontal) pueden ayudar a establecer un sistema de organización.
+
+* **Capas:** La disposición de las capas sigue una organización que permite hacer coincidir el orden de los elementos en la interfaz. La capa superior será para el elemento que también está encima de los demás.
+<img src="./Imagenes/layout.webp" alt="">
+
+* **Componentes:** Tienen que seguir la misma configuración y orden de capas que se utiliza fuera de ellos.
+<img src="./Imagenes/componenetes.webp\" alt="">
+
+## Principios de la animación
+
+### Conceptos:
+
+* Duración y Velocidad
+* Tamaño importa
+* Móvil
+* Tablets y relojes inteligentes
+### Movimiento:
+* Comprensión y Extensión
+* Anticipación
+* Puesta en Escena
+* Seguimiento y Acción Superpuesta
+* Entrada y Salida
+* Acción Secundaria
+* Tiempo
+* Exageración
